@@ -7,6 +7,7 @@ Features:
 ✅ Server-Client Chat using TCP Sockets✅ Graphical User Interface (GUI) using Tkinter✅ Supports real-time two-way messaging✅ Multi-threaded to keep the GUI responsive✅ Works on a single computer using localhost (127.0.0.1)
 
 Correct Way to Run :
+
 1️⃣ Open two Command Prompt windows.
 
 2️⃣ Run the server first:
